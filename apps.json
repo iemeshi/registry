@@ -1,7 +1,7 @@
 [
   {
     "都道府県名": "和歌山県",
-    "市区町村名": "串本町",
+    "地域名": "串本町",
     "サブドメイン": "kushimoto",
     "CNAME": "xxxx.netlify.app",
     "GitHub": "https://github.com/iemeshi/app"
