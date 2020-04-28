@@ -5,5 +5,12 @@
     "サブドメイン": "kushimoto",
     "CNAME": "xxxx.netlify.app",
     "GitHub": "https://github.com/iemeshi/app"
+  },
+  {
+    "都道府県名": "滋賀県",
+    "地域名": "彦根市",
+    "サブドメイン": "hikone",
+    "CNAME": "hikone-iemeshi.netlify.app",
+    "GitHub": "https://github.com/iemeshi/hikone.iemeshi.jp"
   }
 ]
