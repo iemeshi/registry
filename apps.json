@@ -12,5 +12,12 @@
     "サブドメイン": "hikone",
     "CNAME": "hikone-iemeshi.netlify.app",
     "GitHub": "https://github.com/iemeshi/hikone.iemeshi.jp"
+  },
+  {
+    "都道府県名": "岐阜県",
+    "地域名": "美濃市",
+    "サブドメイン": "mino",
+    "CNAME": "mino-iemeshi.netlify.app",
+    "GitHub": "https://github.com/rnsk/iemeshi"
   }
 ]
