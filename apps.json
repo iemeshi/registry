@@ -26,5 +26,12 @@
     "サブドメイン": "jiyugaoka",
     "CNAME": "jiyugaoka-iemeshi.netlify.app",
     "GitHub": "https://github.com/atachibana/iemeshi"
+  },
+  {
+    "都道府県名": "兵庫県",
+    "地域名": "神戸市西区",
+    "サブドメイン": "kobe-nishiku",
+    "CNAME": "clever-leakey-e5cb1e.netlify.app",
+    "GitHub": "https://github.com/iemeshi/kobe-nishiku.iemeshi.jp"
   }
 ]
