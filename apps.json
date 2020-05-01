@@ -19,5 +19,12 @@
     "サブドメイン": "mino",
     "CNAME": "mino-iemeshi.netlify.app",
     "GitHub": "https://github.com/rnsk/iemeshi"
+  },
+  {
+    "都道府県名": "東京都",
+    "地域名": "自由が丘",
+    "サブドメイン": "jiyugaoka",
+    "CNAME": "jiyugaoka-iemeshi.netlify.app",
+    "GitHub": "https://github.com/atachibana/iemeshi"
   }
 ]
