@@ -40,5 +40,12 @@
     "サブドメイン": "gifu",
     "CNAME": "naughty-curran-43bf87.netlify.app",
     "GitHub": "https://github.com/Olein-jp/gifu.iemeshi.jp"
+  },
+  {
+    "都道府県名": "京都府",
+    "地域名": "嵯峨嵐山",
+    "サブドメイン": "sagaarashiyama",
+    "CNAME": "sagaarashiyama.netlify.app",
+    "GitHub": "https://github.com/yoheitaniguchi/sagaarashiyama.iemeshi.jp"
   }
 ]
