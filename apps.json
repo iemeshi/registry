@@ -33,5 +33,12 @@
     "サブドメイン": "kobe-nishiku",
     "CNAME": "clever-leakey-e5cb1e.netlify.app",
     "GitHub": "https://github.com/iemeshi/kobe-nishiku.iemeshi.jp"
+  },
+  {
+    "都道府県名": "岐阜県",
+    "地域名": "岐阜市",
+    "サブドメイン": "gifu",
+    "CNAME": "naughty-curran-43bf87.netlify.app",
+    "GitHub": "https://github.com/Olein-jp/gifu.iemeshi.jp"
   }
 ]
