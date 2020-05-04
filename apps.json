@@ -61,5 +61,12 @@
     "サブドメイン": "shizuoka-city",
     "CNAME": "inspiring-raman-537f9c.netlify.app",
     "GitHub": "https://github.com/hota1024/iemeshi-shizuoka-city"
+  },
+  {
+    "都道府県名": "高知県",
+    "地域名": "津野町",
+    "サブドメイン": "tsuno",
+    "CNAME": "tsuno-iemeshi.netlify.app",
+    "GitHub": "https://github.com/mimosafa/tsuno.iemeshi"
   }
 ]
