@@ -47,5 +47,12 @@
     "サブドメイン": "sagaarashiyama",
     "CNAME": "sagaarashiyama.netlify.app",
     "GitHub": "https://github.com/yoheitaniguchi/sagaarashiyama.iemeshi.jp"
+  },
+  {
+    "都道府県名": "兵庫県",
+    "地域名": "西脇市",
+    "サブドメイン": "nishiwaki",
+    "CNAME": "naughty-curran-43bf87.netlify.app",
+    "GitHub": "https://github.com/junonet/app"
   }
 ]
