@@ -54,5 +54,12 @@
     "サブドメイン": "nishiwaki",
     "CNAME": "naughty-curran-43bf87.netlify.app",
     "GitHub": "https://github.com/junonet/app"
+  },
+  {
+    "都道府県名": "静岡県",
+    "地域名": "静岡市",
+    "サブドメイン": "shizuoka-city",
+    "CNAME": "inspiring-raman-537f9c.netlify.app",
+    "GitHub": "https://github.com/hota1024/iemeshi-shizuoka-city"
   }
 ]
