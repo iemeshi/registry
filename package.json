@@ -1,0 +1,15 @@
+{
+  "name": "@iemesh/registry",
+  "version": "1.0.0",
+  "private": true,
+  "description": "このリポジトリでは、各地域のイエメシアプリのサブドメインを管理しています。",
+  "main": "bin/test.js",
+  "scripts": {
+    "test": "node bin/test.js",
+    "deploy": "node bin/deploy.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.669.0"
+  }
+}
