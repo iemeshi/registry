@@ -5,10 +5,12 @@ for (const app of apps) {
     !app["都道府県名"] ||
     !app["地域名"] ||
     !app["サブドメイン"] ||
+    !app["CNAME"] ||
     !app["GitHub"]
   ) {
     throw new Error("不足しているパラメータがあります。");
   }
+
   const subdomain = app["サブドメイン"];
   if (
     subdomain[0] === "-" ||
