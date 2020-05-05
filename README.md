@@ -1,5 +1,7 @@
 # Iemeshi Registry
 
+[![CircleCI](https://circleci.com/gh/iemeshi/registry/tree/master.svg?style=svg)](https://circleci.com/gh/iemeshi/registry/tree/master)
+
 このリポジトリでは、各地域のイエメシアプリのサブドメインを管理しています。
 
 [kushimoto.iemeshi.jp](https://kushimoto.iemeshi.jp/) などのサブドメインが必要な方は、以下の要領でプルリクエストを送ってください。
