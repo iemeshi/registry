@@ -1,4 +1,4 @@
-const apps = require("./apps.json");
+const apps = require("../apps.json");
 
 for (const app of apps) {
   if (
