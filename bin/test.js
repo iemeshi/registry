@@ -20,6 +20,11 @@ for (const app of apps) {
   ) {
     throw new Error("このサブドメインは使用できません。");
   }
+
+  // サブドメイン重複
+  if (apps.filter((app) => app["サブドメイン"] === subdomain).length > 1) {
+    throw new Error("このサブドメインは使用できません。");
+  }
 }
 
 process.stdout.write("success!");
