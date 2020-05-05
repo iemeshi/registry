@@ -75,5 +75,12 @@
     "サブドメイン": "kyotohokubu",
     "CNAME": "dazzling-ritchie-9300b4.netlify.app",
     "GitHub": "https://github.com/masaki0418/app"
+  },
+  {
+    "都道府県名": "滋賀県",
+    "地域名": "米原市 テスト",
+    "サブドメイン": "maibara-test",
+    "CNAME": "geolonia.com",
+    "GitHub": "https://github.com/geolonia"
   }
 ]
