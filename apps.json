@@ -75,5 +75,12 @@
     "サブドメイン": "kyotohokubu",
     "CNAME": "dazzling-ritchie-9300b4.netlify.app",
     "GitHub": "https://github.com/masaki0418/app"
+  },
+  {
+    "都道府県名": "福岡県",
+    "地域名": "久留米市",
+    "サブドメイン": "kurume",
+    "CNAME": "iemeshi-kurume.netlify.app",
+    "GitHub": "https://github.com/crosslab-matsui/iemeshi"
   }
 ]
