@@ -82,5 +82,12 @@
     "サブドメイン": "kurume",
     "CNAME": "iemeshi-kurume.netlify.app",
     "GitHub": "https://github.com/crosslab-matsui/iemeshi"
+  },
+  {
+    "都道府県名": "愛知県",
+    "地域名": "犬山市",
+    "サブドメイン": "inuyama",
+    "CNAME": "gifted-morse-f953ff.netlify.app",
+    "GitHub": "https://github.com/ertama/inuyama.iemeshi"
   }
 ]
